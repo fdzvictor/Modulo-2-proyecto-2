@@ -40,3 +40,13 @@ En esta visualización, se compara el monto de ingresos en diferentes categoría
 ![image](https://github.com/user-attachments/assets/599506b4-4663-4ee3-a269-c6f23b59f761)
 
 Este diagrama de caja muestra la dispersión de las diferencias entre los ingresos previstos y los ingresos recaudados por categoría. Se puede observar una amplia variabilidad en las diferencias, con la mayoría de las categorías mostrando valores extremos y outliers, lo que sugiere una inconsistencia en la previsión de ingresos y su recaudación.
+
+
+De los datos generales podemos inferir una baja disciplina presupuestaria en brasil, con muchos de los ingresos sin registrar o con valores muy extremos y dispersos. Cabe suponer que existen transacciones extraoficiales en los diferentes organos, y que en según qué empresas concretas existe una desviación de fondos.
+
+Brasil, sin embargo sigue siendo un país con una economía potente. Sus principales ingresos provienen del sector terciario, característica tipica de países modernizados, aunque existe una fuerte dependencia de capitales extranjeros y turismo.
+
+Como medidas a seguir, la disciplina presupuestaria es la principal, es necesario mantener un correcto registro de los gastos para poder mantener la corrupción a raya. Asimismo, si bien existen remesas del estado a los órganos productivos del país, se podría fortalecer la inversión agropecuaria y en el sector industrial, mientras que se controla y limita la inversión no regulada con los órganos universitarios.
+
+
+En un futuro espero poder realizar una mejor organización del proyecto y continuar profundizando en los insights.
