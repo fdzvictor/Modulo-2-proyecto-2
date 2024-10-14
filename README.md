@@ -20,6 +20,8 @@ monto_recaudado: Monto recaudado.
 porcentaje_recaudado: Porcentaje recaudado.
 fecha_lanzamiento: Fecha de lanzamiento.
 anio_ejercicio: Año de ejercicio.
+
+
 Hallazgos Clave
 Al agrupar los montos recaudados por clasificación de ingresos, se observa que los ingresos corrientes son más abundantes que los del capital, que además son negativos.
 Los principales ingresos corrientes provienen de la categoría "Otras" (39%), aunque se destaca la gran predominancia del sector terciario, donde los ingresos por servicios (29,9%) y patrimoniales (14%) son los segundos y terceros, respectivamente. Esto indica la gran importancia del turismo en el país. Las transferencias, que se refieren a multas, sanciones y deudas, ocupan el último lugar en los ingresos del país. También se nota el reducido papel de la industria agropecuaria, a pesar de la alta calidad de la carne brasileña.
